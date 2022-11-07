@@ -1,0 +1,14 @@
+{
+  "1": {
+    "title": "Samsung Galaxy Z Fold 4",
+    "description": "19.19cm (7'6) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Cover Display - 15.82cm (6.2) Infinity-O Display, Switchable 60/120Hz",
+    "price": "Rs 1,19,999",
+    "color": "blue"
+  },
+  "2": {
+    "title": "Apple iPhone 14",
+    "description": "15.40 cm (6.1-inch) Super Retina XDR display. Advanced camera system for better photos in any light. Cinematic mode now in 4K Dolby Vision up to 30 fps.",
+    "price": "Rs 1,09,900",
+    "color": "red"
+  }
+}

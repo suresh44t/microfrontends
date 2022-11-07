@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Samsung Galaxy Z Fold 4",
+      "price": "Rs 1,19,999",
+      "color": "blue"
+    },
+    {
+      "id": "2",
+      "title": "Apple iPhone 14",
+      "price": "Rs 1,09,900",
+      "color": "red"
+    }
+  ]
+}
